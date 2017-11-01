@@ -3,6 +3,11 @@
 This is the working area for documents managed by the IETF [DNS over
 HTTPS Working Group](https://datatracker.ietf.org/wg/doh/about/) (DOH).
 
+## draft-ietf-doh-dns-over-https
+
+The repository for draft-ietf-doh-dns-over-https is <https://github.com/dohwg/draft-ietf-doh-dns-over-https>.
+Please use that repository for issues and pull requests that relate to that document.
+
 ## Contributing
 
 This repository is used for managing draft contents and minor edits,
